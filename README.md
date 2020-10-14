@@ -19,16 +19,17 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * https://dec41.user.srcf.net/ Un loc foarte bun de invatat mate, pentru *toate* materile de mate (analize, algebre, eddp, to, cn). via Eric
 
 * https://github.com/Cllaire/FMI
+* https://github.com/DLarisa/FMI-Materials
 * https://github.com/CristinaMihailescu/fmi
 * https://github.com/aliasbind/Sesiune
 * https://github.com/Vlaaaaaaad/FMI-public-materials
 * http://fmi.is-a-geek.net/ - din nefericire a picat, dar am facut un [mirror](http://fmi.is-a-geek.palcu.ro/). Am și o arhivă salvată [cu el](https://www.dropbox.com/s/8ncr98owj69b8aj/fmi-is-a-geek.zip?dl=0).
 * https://drive.google.com/drive/u/0/#folders/0BxI0dBW6RL4mcEdWeVR3LUNwRDQ
-* https://drive.google.com/folderview?id=0B0-Ney8GB2GyS2hRcFRQRFpxdlU&u
 
 ## Unde găsesc teme?
 
 * https://github.com/palcu/homework
+* https://github.com/DLarisa/FMI-Materials
 * https://github.com/kitz99
 * https://github.com/tvararu/
 * https://github.com/aliasbind
@@ -36,6 +37,8 @@ Dacă ți-a fost util ceva ce e în repo-ul ăsta, probabil știi să programezi
 * https://github.com/andrei14vl/
 * https://github.com/rdragos
 * https://github.com/scipianus
+* https://github.com/skypper/work/tree/master/teme-facultate
+* https://github.com/mehanix/teme-fmi
 
 ## Grupuri pe Facebook
 
@@ -50,3 +53,7 @@ Majoritatea subiectelor și materialelor au fost adunate de pe diferite grupuri 
 * [FMI 2015](https://www.facebook.com/groups/fmi.ub.2015/)
 * [FMI-UB/INFO 2015-2018](https://www.facebook.com/groups/1662350980651951/)
 * [FMI-UB/INFO 2016-2019](https://www.facebook.com/groups/1744503535826904/?ref=br_rs)
+
+## Addendum
+
+Am auzit că datorită diferenței de generații, pronunția numelui meu a fost uitată. Pentru a elucida acest lucru, precizez că varianta `Palcuie` este cea corectă, iar la cele precum `Pălcuie`, `Pâlcuie` sau alte derivate sunt greșite. 

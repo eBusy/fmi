@@ -7,8 +7,13 @@
 - [laboratoare](https://www.dropbox.com/sh/9m795e3nn8eh83e/AACG5zBotB5utC61OCdkpZqqa?dl=0) scrise de Dayanna Amegică
 - [Curs 2014](https://www.dropbox.com/s/iwz4iudiys9j0jd/Probabilitati%20si%20statistica.pdf?dl=0) via Iulia Duță
 
+## [Subiecte Examen Seria 23 (06.02.2020)](https://drive.google.com/file/d/19eDO0ywOfkxqJf-qn-6qr8_jIazKvlmD/view?usp=sharing)
+* Fiecare student a primit un număr *i* unic cu ajutorul căruia se rezolvau problemele.
+
 ## [Subiecte examen 23* (08.02.2019)](https://github.com/alexvelea/general/blob/929705983cadd1c4d9eed87ec6627cdffc969160/FMI/PS/examen-ps-8.2.2019.pdf)
 * Fiecare student a primit un numar i cu ajutorul caruia se rezolvau problemele.
+
+## [Subiecte test laborator 2019, seria 23 - Simona Cojocea](https://imgur.com/a/RqtB7AT)
 
 ## Subiecte examen 231, 232 (04.02.2017)
 1. Dintr-o urnă cu 2 bile albe și i bile negre se extrag fără revenire 2 bile dintre care cel puțin una e albă. Care e probabilitatea ca și cealaltă bilă să fie albă?

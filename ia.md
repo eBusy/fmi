@@ -1,17 +1,24 @@
+# Machine Learning - Radu Ionescu
+
+## Examen
+
+- [Exerciții rezolvate din diverse examene](https://docs.google.com/document/d/13WX6yz3jVaoXQnxX0Lkii8X939P5BjPZfCSC1dFEbzk/edit?usp=sharing)
+- [Modele de întrebări](https://drive.google.com/open?id=1bcymQm2OgV3-CofPB15mGXkceszfzYIY)
+
 # Inteligență Artificială - Denis Enăchescu
 
 ## Examen
 
 - [07.06.2015](https://www.dropbox.com/s/m455nlbtd6ynjrq/examen_ia_07_06_2015.jpg?dl=0)
-- [16.06.2016](https://www.dropbox.com/s/46jq1f6ao608nyf/SUBIECTE_IA-2016.pdf?dl=0)
 - [04.09.2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-STVaWEh6NUZMS3M/view?usp=sharing) Primele doua subiecte identice cu cele de la numarul 1 de aici, la ultimul exercitiu a modificat reteaua (N) si a cerut algoritmul backprop varianta "online"
 - [18.09.2017](https://drive.google.com/file/d/0Bx7Xl3-g3yZ-NnoyWFQxSGhJQlk/view?usp=sharing)
+
 ## Curs
 
 Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). Și [link](https://www.dropbox.com/s/5jyzi2ccde7mwor/moodle.zip?dl=0) cu toate PDF-urile. La examen ai voie cu un rezumat de 5 pagini al cursului, a insistat sa nu fie fotocopiat de la alti colegi si sa fie individual. 
 
 ### Teorie
-[Aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-X2hnQUtyQktlNWs) un link cu materiale complete (rezumat teorie, seminarii, laboratoare rezolvate, teste de laborator rezolvate, cursuri) din 2017. 
+[Aici](https://drive.google.com/open?id=0Bx7Xl3-g3yZ-X2hnQUtyQktlNWs) un link cu materiale complete (rezumat teorie, seminarii, laboratoare rezolvate, teste de laborator rezolvate, cursuri) din 2017. Seminarul se gaseste [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/seminar.md). Sunt explicate bazele Prolog si sunt facute cateva exercitii.
 
 ### Teste dupa curs
 
@@ -22,15 +29,17 @@ Cursul lui de pe [Moodle](http://moodle.fmi.unibuc.ro/course/view.php?id=251). �
 
 [Aici](https://github.com/palcu/homework/tree/master/ia).
 
-# Florentina Hristea
+# Reprezentarea Cunoștințelor - Florentina Hristea
 
 ### Teorie
 
 Un rezumat( teorie + bucatele de cod de la laborator) se gaseste online [aici](http://vladionescu.me/ia.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/IA.md).
 
-Seminarul se gaseste online [aici](http://vladionescu.me/seminar.html) cu sursa [aici](https://github.com/Vlaaaaaaad/FMI-public-materials/blob/master/InteligentaArtificiala/seminar.md). Sunt explicate bazele Prolog si sunt facute cateva exercitii.
-
 ### Examen
+
+- [Examen Info Seria 23 Iunie 2020](https://drive.google.com/file/d/12ijXj4Oa-dq5Mm420nvgnHBQR_1uMA92/view?usp=sharing)
+- [Examen Info Seria 24 Iunie 2020](https://drive.google.com/file/d/1ecEGznxZwtpNHgD4dUKSAWn-f7gSN8UJ/view?usp=sharing)
+- [Examen Restanță Iunie 2020](https://drive.google.com/file/d/12gi0eGi8TkJVsnzsSPdmG0ckp83MseFN/view?usp=sharing)
 
 ```
 Examen Hristea IA : (08.06.2015)
